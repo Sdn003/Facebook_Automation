@@ -1,0 +1,12 @@
+INDEX VERSION 1.134+C:\eclipse\Facebook\.metadata\.plugins\org.eclipse.jdt.core
+1308519485.index
+3430446206.index
+2534976647.index
+3638438759.index
+2038480894.index
+2362240753.index
+3011959977.index
+596343692.index
+673147555.index
+1443656097.index
+1865797976.index
